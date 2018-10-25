@@ -1,0 +1,10 @@
+./test_data/mimizuku15.jpg 1
+./test_data/mimizuku98.jpg 1
+./test_data/lion18.jpg 0
+./test_data/lion78.jpg 0
+./test_data/mimizuku51.jpg 1
+./test_data/lion41.jpg 0
+./test_data/mimizuku56.jpg 1
+./test_data/lion53.jpg 0
+./test_data/lion23.jpg 0
+./test_data/mimizuku5.jpg 1
